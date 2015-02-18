@@ -1,9 +1,5 @@
 [My Computer]
-<<<<<<< HEAD
-My Computer = "10.15.249.40"
-=======
 My Computer = "10.12.202.222"
->>>>>>> origin/Code-with-lift
 
 [Target]
 Target = "roboRIO-2444.local"
